@@ -5,6 +5,7 @@ An AI-powered GitHub Repository Analyzer that lets you chat with any codebase us
 CodeSense AI automatically clones a GitHub repository, indexes its source code using embeddings and vector search, and answers repository-specific questions using Google's Gemini models.
 
 ---
+Live link : https://codesense-ai-7.streamlit.app/
 
 ## ✨ Features
 
