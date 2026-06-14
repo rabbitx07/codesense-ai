@@ -1,7 +1,7 @@
- streamlit,
- langchain,
- langchain-community ,
-  langchain-chroma),
- langchain-google-genai,
-sentence-transformers,
+ streamlit
+ langchain
+ langchain-community 
+  langchain-chroma)
+ langchain-google-genai
+sentence-transformers
  GitPython
